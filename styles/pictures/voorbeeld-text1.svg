@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 200" style="enable-background:new 0 0 600 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{font-family:'Lora-Regular';}
+	.st2{font-size:14px;}
+	.st3{font-size:43px;}
+</style>
+<g>
+	<rect x="40" y="112.2" class="st0" width="520" height="86"/>
+	<text transform="matrix(1 0 0 1 40 122.7603)"><tspan x="0" y="0" class="st1 st2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy </tspan><tspan x="0" y="21" class="st1 st2">nibh euismod tincidunt ut laoreet dolore </tspan></text>
+	<text transform="matrix(1 0 0 1 159.5436 86.3595)" class="st1 st3">Dit is een titel</text>
+</g>
+</svg>

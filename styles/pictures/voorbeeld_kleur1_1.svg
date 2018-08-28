@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 240 240" style="enable-background:new 0 0 240 240;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#691B33;}
+	.st1{fill:#575756;}
+	.st2{font-family:'Montserrat-Regular';}
+	.st3{font-size:10px;}
+	.st4{font-family:'Montserrat-Medium';}
+	.st5{font-size:11px;}
+</style>
+<g>
+	<path class="st0" d="M153.7,116.9h0.6h0.5l1.4-1.4l30.4-30.4l-49.2-49.2l-1.4-1.4l-1.3,1.4L87.1,83.4l-33.5,33.5h3.3H57H153.7"/>
+	<g>
+		<text transform="matrix(1 0 0 1 53.444 148.5957)" class="st1 st2 st3">CMYK</text>
+		<text transform="matrix(1 0 0 1 61.144 166.5957)" class="st1 st2 st3">RGB</text>
+		<text transform="matrix(1 0 0 1 62.244 184.5957)" class="st1 st2 st3">HEX</text>
+		<text transform="matrix(1 0 0 1 60.744 202.5957)" class="st1 st2 st3">PMS</text>
+		<text transform="matrix(1 0 0 1 95.6437 148.5957)" class="st4 st5">35 • 94 • 49 • 53 </text>
+		<text transform="matrix(1 0 0 1 95.6437 166.5957)" class="st4 st5">105 • 27 • 51</text>
+		<text transform="matrix(1 0 0 1 95.6437 184.5957)" class="st4 st5">#691B33</text>
+		<text transform="matrix(1 0 0 1 95.6437 202.5957)" class="st4 st5">2357 C</text>
+	</g>
+</g>
+</svg>

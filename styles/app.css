@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600');
+body{
+    font-family: "Monteserrat", sans-serif;
+
+}
+.center-block {
+  float:none;
+}
+footer{
+    display: block;
+}
+.list-unstyled li{
+    display: block;
+    
+}
+
+.footer a:link{
+    color: darkgray;
+}
+.footer a:hover{
+    text-decoration: none;
+    color:black;
+}
+.footer a:visited{
+    color: darkgray;
+}
+.copy{
+    color:darkgray;
+}
+.nav-link{
+    color: darkgray;
+}
+.nav-link:hover{
+   color: dimgray;
+}
+.lees{
+    color:#48B276;
+}
+.lees:hover{
+    color: darkgray;
+    text-decoration: none;
+}
+.fa-check{
+    color: #48B276;
+}
+.fa-times{
+    color: #EA5B5D;
+}
+.card-color{
+    font-size: 8pt;
+}
+.no-gutters{
+    margin-right: 0;
+    margin-left: 0;
+}
